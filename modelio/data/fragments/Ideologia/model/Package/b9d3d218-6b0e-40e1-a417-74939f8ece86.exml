@@ -2,8 +2,10 @@
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ideologia" version="3">
   <DEPS>
     <ID name="ideologia" mc="Package" uid="b9d3d218-6b0e-40e1-a417-74939f8ece86"/>
+    <COMPID name="Activity" mc="Activity" uid="8ee15fb2-6453-4749-bb45-de3391094364"/>
     <COMPID name="Communication" mc="Class" uid="c5b9afa9-8a6d-4756-b01f-b806037ba369"/>
-    <COMPID name="overview diagram" mc="ClassDiagram" uid="ea8dafe2-abd9-4ba9-9c1d-1731f10c81f4"/>
+    <COMPID name="Interaction" mc="Interaction" uid="5e355eb1-bc85-45ca-9b3f-fbbf1aca1647"/>
+    <COMPID name="Server class diagram" mc="ClassDiagram" uid="ea8dafe2-abd9-4ba9-9c1d-1731f10c81f4"/>
   </DEPS>
   <OBJECT>
     <ID name="ideologia" mc="Package" uid="b9d3d218-6b0e-40e1-a417-74939f8ece86"/>
@@ -18,11 +20,15 @@
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="Activity" mc="Activity" uid="8ee15fb2-6453-4749-bb45-de3391094364"/>
+        <COMPID name="Interaction" mc="Interaction" uid="5e355eb1-bc85-45ca-9b3f-fbbf1aca1647"/>
+      </COMP>
       <COMP relation="OwnedElement">
         <COMPID name="Communication" mc="Class" uid="c5b9afa9-8a6d-4756-b01f-b806037ba369"/>
       </COMP>
       <COMP relation="Product">
-        <COMPID name="overview diagram" mc="ClassDiagram" uid="ea8dafe2-abd9-4ba9-9c1d-1731f10c81f4"/>
+        <COMPID name="Server class diagram" mc="ClassDiagram" uid="ea8dafe2-abd9-4ba9-9c1d-1731f10c81f4"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>
