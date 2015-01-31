@@ -1758,13 +1758,13 @@
           <DEPENDENCIES>
             <COMP relation="SentMessage">
               <OBJECT>
-                <ID name="Updating" mc="Message" uid="f43d73a1-c5e3-4e96-b76f-3d0ff9b52290"/>
+                <ID name="updates=[]" mc="Message" uid="f43d73a1-c5e3-4e96-b76f-3d0ff9b52290"/>
                 <PID name="Interactions" mc="Interaction" uid="5e355eb1-bc85-45ca-9b3f-fbbf1aca1647"/>
                 <ATTRIBUTES>
                   <ATT name="Argument"></ATT>
                   <ATT name="KindOfMessage">CompleteKind</ATT>
                   <ATT name="SortOfMessage">ASyncCall</ATT>
-                  <ATT name="Name"><![CDATA[Updating]]></ATT>
+                  <ATT name="Name"><![CDATA[updates=[]]]></ATT>
                   <ATT name="status">1970354901745664</ATT>
                 </ATTRIBUTES>
                 <DEPENDENCIES>
