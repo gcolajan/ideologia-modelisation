@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="overview diagram" version="3">
+  <DEPS>
+    <ID name="overview diagram" mc="ClassDiagram" uid="ea8dafe2-abd9-4ba9-9c1d-1731f10c81f4"/>
+  </DEPS>
+  <OBJECT>
+    <ID name="overview diagram" mc="ClassDiagram" uid="ea8dafe2-abd9-4ba9-9c1d-1731f10c81f4"/>
+    <PID name="ideologia" mc="Package" uid="b9d3d218-6b0e-40e1-a417-74939f8ece86"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">4</ATT>
+      <ATT name="UiData"><![CDATA[eJztmm1v4jgQgP9KxHcCCZQXLdtVCyuuWrat4G6luy/VJBmot06MbFNKf/3aIeEKbdM0hFBVkZDAQzx+e2Yyk0nv24NPjXvkgrDga8Uy6xXj22nvyvmNrjSIp0QVQ67m+LXC+Mz0mYeUMNMjMOPgm+gRybgpJEhyZyJFHwMp1m03vmjoT8L2YN2uGD78ZvxmM2i9ctq75myOXK6MAHw1FoUVW8gBSFD//QK6wGgSwYLSSu20V4s7POs6kSuKla0l2ElLEPp6YbqMo7num2J+fRAueOjFg31/kGOcphzlUqmIehr4IAfOhZpj+FP/8HAKCyp3FllbLydp4RwpSPTUPHb27KcWGfdaomZOQYjoJAyEjgdTtKvgeN1q04FutetaXtVqN6ypVXc71rSZvNtKm/wRsGUwAgfpzsATyUkwq5wytZX3BJdGtBu9WnhV4mIYxYugz/w5E0SqY3hFdQpV/VtCPY5aw4gIuUVGIwPcLoXHRwV1uJN7wTxW04BgpjmITsdudL9YzfaXqqU+7+a8eXDONeRrizoknoZ74nRhqmjsQMurNtsnrapTt6ZVp1Nv1RttBxqtbg5cKrz8RUBc0IB9HChP9oXymhMf+OpSdS3e2bbSQqhUPaz2JnHXP5UkPtX7E0igMdiTyHYGIrVWMQcXb1GdG1dsXsaSv0JJ8Wh2CvOPrZLKBCrX559CobhlyxviPlN0ztRIEGx2ZQpUYPKCQ1V3uFoy7uWgTYJ7dyMkcmRvaJN8kWZq9IVzeL8qcITk4MoMK9wg+sRgutnuREKQKQlNvr9pjFGQR3AoDjlbzIu3fate7H2p9AAHjJCsLEkpSDW4s5A40wQqOM9iwbGQTJ2X5oOkMoGSydeZ3MYhC6G16CvZqVpZkk6tMFxwDO9VLDgWvKmTzRLeIgJ9lLfMOzS5WTJTEqgoKVABh4peXLlQQAz9i0g2iWVH4LfgPLXkN5HfmIh9A4MsmWoqQo/lZlPnrDlh+jni1hzJPLRPzZJjpSL2PxYcwa/aBedZnwTYQ/lVDUHO8Kbj2s6SopEgQB4+QAiBVo39iyzaLmb6aWN0rBnqKnaZqH0kpkMw9gwU7CxJ2Ct4Hik0sAvOwOyy6HfEOMHOlnu9CCyKI8UGBedcJbEfKDZ4/tfOOET8Ui21zAxlkPSjPC+RmxFab8QNjRT1EjtT+unDDDfV0rAOpK1VS3XFdKKlazzyDIPeeK/nJestrnxaFvWT7HaiFkopkWmM9zNUUNPOLWMJNRfnNSLBnUjwkDuXn88GHJbqNEewUka5bWfJTwRit+GtFQiTahXKY2xpLObe/r5eR3lBkeyyGlvRYGiOzv79Pr45P+v/GI6v/rkc5H0zfFXL06P6n5qn7yUmPkUpGcibgb+vrguLhP4AUNv0vw==]]></ATT>
+      <ATT name="PdeProperties"></ATT>
+      <ATT name="Name"><![CDATA[overview diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

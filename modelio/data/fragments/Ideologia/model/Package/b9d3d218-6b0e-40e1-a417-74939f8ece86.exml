@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ideologia" version="3">
+  <DEPS>
+    <ID name="ideologia" mc="Package" uid="b9d3d218-6b0e-40e1-a417-74939f8ece86"/>
+    <COMPID name="Communication" mc="Class" uid="c5b9afa9-8a6d-4756-b01f-b806037ba369"/>
+    <COMPID name="overview diagram" mc="ClassDiagram" uid="ea8dafe2-abd9-4ba9-9c1d-1731f10c81f4"/>
+  </DEPS>
+  <OBJECT>
+    <ID name="ideologia" mc="Package" uid="b9d3d218-6b0e-40e1-a417-74939f8ece86"/>
+    <PID name="Ideologia" mc="Project" uid="1f9aaa08-3edb-4f07-931c-591dc761f0f7"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[ideologia]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Communication" mc="Class" uid="c5b9afa9-8a6d-4756-b01f-b806037ba369"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="overview diagram" mc="ClassDiagram" uid="ea8dafe2-abd9-4ba9-9c1d-1731f10c81f4"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

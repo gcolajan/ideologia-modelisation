@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Ideologia" version="3">
+  <DEPS>
+    <ID name="Ideologia" mc="DiagramSet" uid="319aebc2-a839-481d-be91-65813f80223c"/>
+  </DEPS>
+  <OBJECT>
+    <ID name="Ideologia" mc="DiagramSet" uid="319aebc2-a839-481d-be91-65813f80223c"/>
+    <PID name="Ideologia" mc="Project" uid="1f9aaa08-3edb-4f07-931c-591dc761f0f7"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Ideologia]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

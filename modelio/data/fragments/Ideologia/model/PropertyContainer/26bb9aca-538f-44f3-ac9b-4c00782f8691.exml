@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Ideologia" version="3">
+  <DEPS>
+    <ID name="Ideologia" mc="PropertyContainer" uid="26bb9aca-538f-44f3-ac9b-4c00782f8691"/>
+  </DEPS>
+  <OBJECT>
+    <ID name="Ideologia" mc="PropertyContainer" uid="26bb9aca-538f-44f3-ac9b-4c00782f8691"/>
+    <PID name="Ideologia" mc="AnalystProject" uid="32dedc3d-93f5-4319-a249-43839cc9cd71"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Ideologia]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>
